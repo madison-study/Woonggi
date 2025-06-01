@@ -181,7 +181,7 @@ Docker에서 실행 중인 여러 컨테이너끼리 **서로 통신할 수 있�
 
 # YAML/YML
 
-![Screenshot 2025-05-28 at 22.54.52.png](Docker%2020560b8421e6807caca4e2067cf66e6f/Screenshot_2025-05-28_at_22.54.52.png)
+![Screenshot 2025-05-28 at 22.54.52.png](docker_statics/Screenshot_2025-05-28_at_22.54.52.png)
 
 웹에서 데이터 통신을 위해 JSON을 많이 사용
 

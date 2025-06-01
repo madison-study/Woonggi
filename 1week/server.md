@@ -16,7 +16,7 @@
 
 ## Agile:
 
-![Screenshot 2025-05-24 at 14.41.22.png](Server%2020560b8421e6801d83cedbc84ae588cd/Screenshot_2025-05-24_at_14.41.22.png)
+![Screenshot 2025-05-24 at 14.41.22.png](server_statics/Screenshot_2025-05-24_at_14.41.22.png)
 
 > Agile is a software development methodology focused on flexibility, collaboration, and delivering working software in small iterations.
 > 
@@ -52,7 +52,7 @@
 
 # History of Deployment
 
-![image.png](Server%2020560b8421e6801d83cedbc84ae588cd/image.png)
+![image.png](server_statics/image.png)
 
 ## **Traditional Deployment**
 
